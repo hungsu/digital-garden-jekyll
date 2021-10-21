@@ -5,18 +5,19 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# The notes of Hung-Su
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+You've found my personal working notes. This also means these notes are written for me, not you, and thus it might be hard for you to look around.
+
+Here are some places to get started:
+
+- [[Decreasing work load can hurt your career]]
+- [[Backlinks should include context]]
+
+Alternatively you might want to try browsing the Graph:
+
+{% include notes_graph.html %}
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
 The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
