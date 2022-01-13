@@ -2,9 +2,19 @@
 title: Backlinks should include context
 ---
 
-Authors already naturally build context up to a forward link to prepare a reader to click it. A backlink often has nothing other than the note's Title to inform you if it is worth clicking.
+Backlinks are becoming increasingly popular in note taking applications, such as [[Obsidian]] and [[Notion]]. But sometimes these apps fail to supply context in their backlinks and thus make them worse to use.
 
-We can do better than this by supplying some context around the link.
+For example, below in Notion you can see that a page named *Caitlin Floyd* refers to the current page *Horror Movies*. But we do not know why.
+
+![[Notion backlink.jpg]]
+
+The equivalent in Obsidian would look like this:
+
+![[Obsidian backlink.jpg]]
+
+By supplying some context around the backlink, it becomes far more useful.
+
+## More reading
 
 [Zettelkasten.de re: Backlinks](https://zettelkasten.de/posts/re-backlinks-should-be-context-rich/)
 
