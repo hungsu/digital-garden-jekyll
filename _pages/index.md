@@ -11,8 +11,8 @@ You've found my personal working notes. This also means these notes are written 
 
 Here are some places to get started:
 
-- [[Decreasing work load can hurt your career]]
-- [[Backlinks should include context]]
+- [[Tips to reduce overcollecting]]
+- [[Knowledge workers toil roughly 20% more than they can comfortably handle]]
 
 Alternatively you might want to try browsing the Graph:
 
