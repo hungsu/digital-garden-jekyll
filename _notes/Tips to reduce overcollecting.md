@@ -18,9 +18,9 @@ Many of us overcollect, and we know overcollecting is bad. [[Bookmarks bring mis
 
 You can learn from those overengineered media sources and add to your own notes, possibly in the form of:
 
--   more interesting note titles. Would you rather read: “Collector’s Fallacy” or “Overcollecting kills brain cells and decreases your energy”? (long note titles are quite effective)
--   more pictures. many many more pictures. In particular, take your own photos!
--   mix up your formatting! Bold, italic, different headings, dividing lines, tables are there to help you!
+-   Titles that punch the reader. Would you rather read: “Collector’s Fallacy” or “Overcollecting kills brain cells and decreases your energy”? Go read my [[Advice for writing better note titles]].
+-   Pictures. Many many more pictures. In particular, take your own photos!
+-   Contrasting formatting! **Bold**, *italic*, different heading levels, dividing lines, tables, these are there to help you! Try learning some [Practical Typography](https://practicaltypography.com/summary-of-key-rules.html).
 
 <img src="/assets/Obsidian_o5HBztgdEB.jpg" alt="Screenshot of my note with a photo I took" />
 One of my notes with a photo I took
