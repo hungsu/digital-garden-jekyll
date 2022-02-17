@@ -18,15 +18,15 @@ Given these outcomes, it's worth being aware that the goals and process for writ
 
 **Write in assertive positive form**. “X causes Y” is usually better than “X fails to do Z”. For example:
 
-Bad: *Doom scrolling doesn't make you smarter*
-Good: *Doom scrolling makes you stupid*
+- Bad: *Doom scrolling doesn't make you smarter*
+- Good: *Doom scrolling makes you stupid*
 
 In writing this way you may also learn to be more assertive and sure of yourself.
 
 **Phrase unproven notes as questions**. Despite my previous advice to be assertive, if you cannot prove something beyond your own doubts, you should phrase it as a question.
 
-Bad: *Privilege is inherited*
-Good: *How much ability is heritable?*
+- Bad: *Privilege is inherited*
+- Good: *How much ability is heritable?*
 
 > ⚠ Be wary of question marks in filenames. You may have to omit them.
 
