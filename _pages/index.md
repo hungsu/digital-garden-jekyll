@@ -12,7 +12,7 @@ You've found my personal working notes. This also means these notes are written 
 Here are some places to get started:
 
 - [[Tips to reduce overcollecting]]
-- [[Knowledge workers toil roughly 20% more than they can comfortably handle]]
+- [[Advice for writing better note titles]]
 
 Alternatively you might want to try browsing the Graph:
 
