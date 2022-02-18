@@ -22,8 +22,10 @@ You can learn from those overengineered media sources and add to your own notes,
 -   Pictures. Many many more pictures. In particular, take your own photos!
 -   Contrasting formatting! **Bold**, *italic*, different heading levels, dividing lines, tables, these are there to help you! Try learning some [Practical Typography](https://practicaltypography.com/summary-of-key-rules.html).
 
-<img src="/assets/Obsidian_o5HBztgdEB.jpg" alt="Screenshot of my note with a photo I took" />
-One of my notes with a photo I took
+<figure>
+    <img src="/assets/Obsidian_o5HBztgdEB.jpg" alt="Screenshot of my note with a photo I took" />
+    <figcaption>One of my notes with a photo I took</figcaption>
+</figure>
 
 Dovetailing from that again…
 
