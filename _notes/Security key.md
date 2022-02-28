@@ -1,5 +1,5 @@
-<img src="/assets/security_key.png" />
+<img src="/assets/security_key.png" alt="The bruises on my fingertips are my proof of work." />
 
-Physical device, usually small that you possess and present to authenticate you into secure system. 
+Physical device, usually small that you present to a secure system to authenticate and authorize you.
 
-My current security keys are - haha do you really think I'll tell you? 😋
+One of the best articles on security keys is [Getting started with security keys](https://paulstamatiou.com/getting-started-with-security-keys/) by Paul Stamatiou.
