@@ -17,10 +17,9 @@ The skills and tools for keeping bad guys out of computer systems, or kicking th
 - *Revenge* - people who hold a grudge against you may wish to inconvenience or harm you, such as with a SWAT attack
 - *Personal and private information* - such as photos and videos
 
-*What defenses can I set up against bad guys?*
+**What defenses can I set up against bad guys?**
 - Use a [[Password manager]], and teach your family and friends to use one too
 - For important resources, add additional authentication such as with a [[Security key]] 
-- [[Server security]]
 - [[Backups]]
 
 **Where to learn more?**
