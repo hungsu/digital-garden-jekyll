@@ -1,14 +1,11 @@
 ---
 title: "2022 Russian invasion of Ukraine"
 ---
-
-On 2022 February 24 Russia invaded Ukraine with ground, sea, and air forces.
-
 **Timelines of events**
 - Wikipedia [timeline](https://en.m.wikipedia.org/wiki/Timeline_of_the_2022_Russian_invasion_of_Ukraine)
-- Australian Broadcast Commission [live blog](https://www.abc.net.au/news/2022-02-28/russia-ukraine-invasion-putin-zelenskyy-nuclear/100866616)
-- Washington Post [live blog](https://www.washingtonpost.com/world/2022/02/27/russia-ukraine-war-kyiv-news/)
-- The Guardian [live blog](https://www.theguardian.com/world/live/2022/feb/27/russia-ukraine-latest-news-missile-strikes-on-oil-facilities-reported-as-some-russian-banks-cut-off-from-swift-system-live?filterKeyEvents=false&page=with:block-621bfbf18f0873d0384b2886#block-621bfbf18f0873d0384b2886)
+- Australian Broadcast Commission [live blog](https://www.abc.net.au/news/2022-03-01/ukraine-russia-invasion-war-kyiv-kharkiv/100870192)
+- Washington Post [live blog](https://www.washingtonpost.com/world/2022/03/01/russia-ukraine-war-putin-news/)
+- The Guardian [live blog](https://www.theguardian.com/world/live/2022/mar/01/ukraine-russia-latest-news-live-updates-war-vladimir-putin-kyiv-kharkiv-russian-invasion-update)
 - [List of notable destroyed/captured equipment](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html)
 
 **Explanations of why Russia is invading Ukraine**
