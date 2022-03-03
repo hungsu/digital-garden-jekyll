@@ -3,9 +3,9 @@ title: "2022 Russian invasion of Ukraine"
 ---
 **Timelines of events**
 - Wikipedia [timeline](https://en.m.wikipedia.org/wiki/Timeline_of_the_2022_Russian_invasion_of_Ukraine)
-- Australian Broadcast Commission [live blog](https://www.abc.net.au/news/2022-03-01/ukraine-russia-invasion-war-kyiv-kharkiv/100870192)
-- Washington Post [live blog](https://www.washingtonpost.com/world/2022/03/01/russia-ukraine-war-putin-news/)
-- The Guardian [live blog](https://www.theguardian.com/world/live/2022/mar/01/ukraine-russia-latest-news-live-updates-war-vladimir-putin-kyiv-kharkiv-russian-invasion-update)
+- Australian Broadcast Commission [March 2nd live blog](https://www.abc.net.au/news/2022-03-02/russia-ukraine-war-invasion-updates/100873914)
+- Washington Post [March 2nd live blog](https://www.washingtonpost.com/world/2022/03/02/russia-ukraine-war-putin-news/)
+- The Guardian [March 2nd live blog](https://www.theguardian.com/world/live/2022/mar/02/ukraine-news-russia-war-kyiv-kharkiv-russian-invasion-vladimir-putin-joe-biden-latest-live-updates)
 - [List of notable destroyed/captured equipment](https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html)
 
 **Explanations of why Russia is invading Ukraine**
