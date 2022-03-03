@@ -7,7 +7,9 @@ permalink: /
 
 # The notes of Hung-Su
 
-2022-02-26: In response to news of the [[2022 Russian invasion of Ukraine]], I found myself doomscrolling and getting angry at propaganda.
+2022-03-02: I've noticed that despite trying to curate my Russia-Ukraine news, I still see politicised garbage such as in Youtube and Instagram. Not sure what to do with those.
+
+2022-02-26: In response to news of the [[2022 Russian invasion of Ukraine]], I initially found myself doomscrolling and getting angry at propaganda. Instead I'll be collecting my preferred sources here.
 
 2022-02-25: Someone potentially implied I have terrible [[Technical writing]] skills, so I've been thinking about that, along with things from the last update
 
