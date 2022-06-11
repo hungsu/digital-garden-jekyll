@@ -20,3 +20,5 @@ Regardless, it is also helpful for the note to have a good title so that we do n
 
 [Zettelkasten.de re: Backlinks](https://zettelkasten.de/posts/re-backlinks-should-be-context-rich/)
 
+Jared Gorski [agrees](https://jaredgorski.org/notes/backlinks-should-be-context-rich/
+)

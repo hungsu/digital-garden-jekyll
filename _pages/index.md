@@ -7,6 +7,8 @@ permalink: /
 
 # The notes of Hung-Su
 
+2022-06-10: I've been playing [[Elden Ring]] 😀
+
 2022-03-02: I've noticed that despite trying to curate my Russia-Ukraine news, I still see politicised garbage such as in Youtube and Instagram. Not sure what to do with those.
 
 2022-02-26: In response to news of the [[2022 Russian invasion of Ukraine]], I initially found myself doomscrolling and getting angry at propaganda. Instead I'll be collecting my preferred sources here.
